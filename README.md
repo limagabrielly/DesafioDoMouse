@@ -30,7 +30,7 @@ O mouse pode ESTAR nas seguintes posições:
 - Baixo e Centro
 - Baixo e Direita
 
-Montando o seguinte desenho.
+Montando o seguinte desenho:
 ![image](https://user-images.githubusercontent.com/99194235/174492924-be4d0bc4-6a21-40bc-b0cb-3810b32d1ad7.png)
 
 __
