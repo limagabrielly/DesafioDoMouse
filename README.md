@@ -36,6 +36,7 @@ Montando o seguinte desenho:
 __
 
 O mouse sempre inicia na posição: Centro. 
+
 __
 
 O mouse não pode fazer movimentos impossíveis.
